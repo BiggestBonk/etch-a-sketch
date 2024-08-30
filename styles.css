@@ -4,7 +4,7 @@
   height: 19px;
   border: 2px, solid, black;
 }
-.container {
+.grid {
   display: flex;
   flex-wrap: wrap;
   width: 368px;
@@ -19,5 +19,10 @@ body {
 }
 
 .onHover:hover {
+  background-color: black;
+  opacity: 0.4;
+}
+
+.drawnBox {
   background-color: black;
 }
