@@ -1,8 +1,6 @@
 .square {
   display: flex;
   background-color: white;
-  width: 49.0625px;
-  height: 49.0625px;
 }
 .grid {
   display: flex;
