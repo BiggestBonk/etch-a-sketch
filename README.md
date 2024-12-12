@@ -1,2 +1,2 @@
-# etch-a-sketch
-etch-a-sketch drawing project
+# Etch-a-sketch
+Etch-a-sketch drawing project made using pure javascript
